@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_seecoder"
+description = "It provides the capability to generate CLIP from an image input, unlike unCLIP, which works in all models. (To use this extension, you need to download the required model file from **Install Models**)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/BlenderNeko/ComfyUI_SeeCoder"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_SeeCoder"
+Icon = ""
